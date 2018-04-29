@@ -8,15 +8,17 @@ image:
   background: https://upload-images.jianshu.io/upload_images/135032-53c1fc1a18da3bf0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700
 ---
 
-Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
+情怀是别人眼里的我，工匠精神是趋势，标签和真相是两回事
 
-```yaml
-image:
-  background: filename.png
-```
+创业五年来，外界贴在罗永浩身上的标签非常鲜明：情怀、工匠精神、天生骄傲。在大众的观点里，这些词语原本都是很好的词语，但是在罗永浩强大的营销能力下，这些词语已经出现烂大街的厌烦感。
 
-This little bit of YAML makes the assumption that your background image asset is in the `/images` folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.
+“手机是白送的，情怀就值三千块。”这是罗永浩发布第一款手机遭遇的大面积嘲讽。面对身带情怀这个标签，罗永浩解释了这个词语一开始贴在锤子科技的历史。“我们开第一代的操作系统发布会的时候，在那个发布会上，全程我就提了这么一句，结果这一句被很多偏文青的这种媒体的记者当成一个事去讲，这样就导致那些偏理科生觉得很烦，你做科技企业的讲什么情怀，然后拿那个就使劲恶心我。”罗永浩回忆了“情怀”的历史来源。
 
-If you want to set a background image for the entire site just add `background: filename.png` to your `_config.yml` and BOOM --- background images on every page!
+而在面对近年来的大热词“工匠精神”的时候，罗永浩则是更加坦然了这是一种国家发展的必然趋势。
 
-<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://subtlepatterns.com" class="notice">Background images from <span property="dct:title">Subtle Patterns</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://subtlepatterns.com">Subtle Patterns</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
+面对这些标签，罗永浩除了更多地追本溯源地去解释成因历史，并没有做过多的阐述，在罗永浩的心里，公众眼里的当事人、当事人眼里的自己和客观的真相，永远是三件事儿。
+
+作者：生椒牛肉
+链接：https://www.jianshu.com/p/8ad7dbd0b7fb
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
