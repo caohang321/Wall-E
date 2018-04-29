@@ -1,43 +1,21 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
+title: "创业起步就是六十分，但对额外的四十分估计不足"
 description: "A ton of text to test readability."
 tags: [sample post, readability, test, intro]
 ---
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+2012年，罗永浩接受了陌陌CEO唐岩的900万天使投资，毅然从已经盈利的英语培训机构转型做手机。“一个英语老师做手机？”来自外界的第一个疑问便从此诞生。而对于罗永浩的身边的朋友来说，这更是一件不可理喻的事情。
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+“身边的朋友百分之九十九都是反对的。”罗永浩在访谈中也透露了创业初期时遭遇朋友们的“良言善劝”。但是作为一个热爱数码产品多年的文艺中年，在看到有可能从事最喜欢行业的机会面前，朋友们的劝告只是会给他带来打击，而不能改变他要从事科技行业的决心。
 
-## Cupidatat 90's lo-fi authentic try-hard
+但是“一个英语老师如何做手机？”这个问题依然等待罗永浩的解答。在罗永浩看来，手机属于系统工程，自己从事研究软件人机交互的六年以上，工业设计领域已经研究了十年以上，市场和品牌传播能力在英语培训机构已经获得了证明，唯一缺少的则是硬件领域的积累和研究，而这个环节就需要有丰富经验的硬件产品合伙人来解决。
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's. 
+“所以我认为比起其他的创业公司来说，我做这个风险是很小的，我起步就是六十分，我需要弥补我自己的那个四十分短板。”罗永浩对于自己的创业逻辑非常清楚。但是事后的事实证明，恰恰是罗永浩比较担心的四十分短板导致了这些年来锤子科技波折不断。
 
-* Sartorial hoodie 
-* Labore viral forage
-* Tote bag selvage 
-* DIY exercitation et id ugh tumblr church-key
+2014年，锤子科技发布第一代产品 Smartisan T1，一时风光无限。但是随后的四个月时间里没能解决供货问题，彻底让这代产品埋没在供应链里。虽然后来数据显示发布会后七个月里一共卖掉了26多万台手机，但是这款产品相比较于它在国际工业设计史上的地位：第一款中国大陆获得IF设计金奖的手机。它的销量和获得过该奖项的前辈们（主要是苹果手机）相比几乎可以忽略不计。而第一代产品的拖延也带来了后续产品的不断推迟，连续几款产品的拖延，导致产品在硬件配置上出现落后同时期作品，这也让外界反复诟病。
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+对于工程实现的难度估计不足成为罗永浩口中反复强调的话语，这也是罗永浩创业五年来谈论到的自己的错误之一。技术实现需要有敬畏之心，这句在科技行业的工程师圈子流行的格言，也开始出现在罗永浩口中。
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+但是创业依然在继续，在越来越重视工程实现的难度时，罗永浩挖来了前华为荣耀的产品线负责人吴德周。从研发到产品交付，拥有十几年丰富经验的吴德周开始去解决罗永浩心中的最大心病。在即将到来的新品发布会，罗永浩给自己树立了一个新的目标，而这个目标的背后则是锤子科技第一次解决了产品供货的问题。“发布会当晚我们就会现货供应四十万到五十万台现货。”罗永浩坦言这从未在锤子科技历史上做到过。
 
-## Forage occaecat cardigan qui
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. 
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
