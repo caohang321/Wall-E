@@ -3,9 +3,9 @@ layout: post
 title: Post with a Background Image
 description: "Sample post with a background image CSS override."
 tags: [sample post]
-author: Abhishek
+author: caohang
 image:
-  background: triangular.png
+  background: https://upload-images.jianshu.io/upload_images/135032-53c1fc1a18da3bf0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/700
 ---
 
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
