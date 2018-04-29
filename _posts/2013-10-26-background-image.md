@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post with a Background Image
+title: 罗永浩的创作
 description: "Sample post with a background image CSS override."
 tags: [sample post]
 author: caohang
