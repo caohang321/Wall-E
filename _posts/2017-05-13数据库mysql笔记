@@ -1,0 +1,17 @@
+---
+title: 随笔
+layout: post
+---
+
+<h2>
+mysql数据库创建外键
+
+</h2>
+
+<p>
+create table mark(
+mid int(10)primary key,
+sid int(10),
+foreign key(sid) reference student(sid),
+cid int(10), foreign key(cid) reference course(cid) )
+</p>
